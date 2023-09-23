@@ -5,5 +5,6 @@ Fue diseñada para ayudar a administrar su stock de libros de manera más eficie
 ![image](https://github.com/gdisciglio/SIGDL/blob/main/src/image/SIGDL_Mockup.png)
 
 <h4>***IMPORTANTE***
-La base de datos está alojada en un servidor MySQL gratuito (https://www.db4free.net/index.php?language=es).
-El usuario y contraseña estan restringidos por cuestiones obvias. La BD local para hacer las pruebas, está alojada en la carpeta sql</h4>
+La base de datos está alojada en un servidor MySQL gratuito ( https://www.db4free.net/index.php?language=es ).
+El usuario y contraseña estan restringidos por cuestiones obvias. 
+La BD local para hacer las pruebas, está alojada en la carpeta sql.</h4>
